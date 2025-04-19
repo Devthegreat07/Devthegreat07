@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi👋
 
-I'm a passionate developer who loves building useful tools and scraping the web for good. Welcome to my GitHub!
+
 
 ---
 
